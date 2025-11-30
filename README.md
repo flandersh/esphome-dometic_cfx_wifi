@@ -48,9 +48,9 @@ web_server:
 
 api:
 
-dometic-cfx3-wifi:
+dometic_cfx3_wifi:
   host: <<IP OF FRIDGE>>
-   cooler_power:
+  cooler_power:
     name: "CFX Power"
   device_name:
     name: "CFX Device Name"
