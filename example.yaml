@@ -20,7 +20,7 @@ wifi:
   ssid: !secret wifi_ssid
   password: !secret wifi_password
 
-dometic-cfx3-wifi:
+dometic_cfx3_wifi:
   host: "10.1.0.55"
   cooler_power:
     name: "CFX Power"
